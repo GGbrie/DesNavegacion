@@ -1,2 +1,3 @@
-![Imagen - Delait](https://github.com/GGbrie/DesNavegacion/assets/106721167/de41dae3-0312-4d5b-9c7e-131d11f0ab2a)
-![Imagen - Home](https://github.com/GGbrie/DesNavegacion/assets/106721167/9fe0f87d-e136-4121-a83c-571fb328184d)
+
+![Imagen - Home](https://github.com/GGbrie/DesNavegacion/assets/106721167/b83ccf1d-e7b6-46ad-b4ac-ce5ee0edaf6e)
+![Imagen - Delait](https://github.com/GGbrie/DesNavegacion/assets/106721167/f3f41ed6-f11e-49b9-8804-54c772b0c720)
